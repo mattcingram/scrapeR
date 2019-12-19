@@ -1,6 +1,7 @@
 # scrape for github and container
 
 # packages
+library(pacman)
 p_load(RSelenium,
        rvest, 
        stringr,
