@@ -1,5 +1,6 @@
 install.packages("pacman")
 install.packages("RSelenium")
+install.packages("devtools")
 install.packages("rvest")
 install.packages("stringr")
 install.packages("data.table")
